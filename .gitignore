@@ -1,2 +1,4 @@
 data/*.csv
 venv/
+f1_cache/
+raw_by_race/
